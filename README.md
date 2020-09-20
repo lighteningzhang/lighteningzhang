@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+- 🌱 I’m currently learning C++/Recommendar system
+- 📫 How to reach me: lighteningzhang@sjtu.edu.cn
+
+![lighteningzhang's github stats](https://github-readme-stats.vercel.app/api?username=lighteningzhang&show_icons=true&theme=radical)
